@@ -1,4 +1,4 @@
 package com.example.labparticipationexercise4;
 
-public class Square extends Shape {
+public class Polygon extends Shape {
 }
