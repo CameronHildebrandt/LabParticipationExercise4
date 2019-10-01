@@ -3,6 +3,7 @@
 3    package="com.example.labparticipationexercise4.test" >
 4
 5    <uses-sdk
+<<<<<<< Updated upstream
 5-->/home/nevil/Documents/CMPUT 301/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger134192545772106756.xml:5:5-74
 6        android:minSdkVersion="15"
 6-->/home/nevil/Documents/CMPUT 301/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger134192545772106756.xml:5:15-41
@@ -28,6 +29,33 @@
 17        <uses-library android:name="android.test.runner" />
 17-->/home/nevil/Documents/CMPUT 301/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger134192545772106756.xml:8:9-60
 17-->/home/nevil/Documents/CMPUT 301/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger134192545772106756.xml:8:23-57
+=======
+5-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:11:5-15:87
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:13:22-53
+13        android:label="Tests for com.example.labparticipationexercise4"
+13-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:15:22-85
+14        android:targetPackage="com.example.labparticipationexercise4" />
+14-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:12:22-83
+15
+16    <application android:debuggable="true" >
+16-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:7:5-9:19
+16-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:8:9-60
+17-->/Users/shearpaladin/Desktop/LabParticipationExercise4/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6284377737950532805.xml:8:23-57
+>>>>>>> Stashed changes
 18    </application>
 19
 20</manifest>
